@@ -1,3 +1,6 @@
 [submodule "meteocean-cast.services"]
 	path = meteocean-cast.services
 	url = https://github.com/mohripan/meteocean-cast.services.git
+[submodule "meteocean-cast.sites"]
+	path = meteocean-cast.sites
+	url = https://github.com/mohripan/meteocean-cast.sites.git
